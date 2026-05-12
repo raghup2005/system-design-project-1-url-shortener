@@ -125,7 +125,7 @@ FastAPI provides built-in interactive docs:
 
 ## 🧠 Learnings
 
-* API design using FastAPI
+* API design using FASTAPI
 * Database integration with SQLAlchemy
 * Request validation with Pydantic
 * System design basics (scalability, caching, etc.)
