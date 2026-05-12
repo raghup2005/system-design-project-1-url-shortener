@@ -109,12 +109,7 @@ FastAPI provides built-in interactive docs:
 
 ---
 
-## ⚠️ Limitations
 
-* No caching (Redis not implemented)
-* No analytics (click tracking)
-* No expiration for links
-* Not distributed (single server)
 
 ---
 
